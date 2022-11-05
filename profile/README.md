@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+We make stuff.
 Join the discord because yes: https://discord.gg/2ZZ3bPQMSV
 
 <!--
