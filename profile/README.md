@@ -1,6 +1,11 @@
 ## Hi there 👋
 We make stuff.
-Join the discord because yes: https://discord.gg/2ZZ3bPQMSV
+
+## Discord Server
+
+Feel Free to join us :D
+
+[![Join us on Discord](https://invidget.switchblade.xyz/2ZZ3bPQMSV?theme=light)](https://discord.gg/2ZZ3bPQMSV)
 
 <!--
 
