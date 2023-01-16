@@ -5,7 +5,7 @@ We make stuff.
 
 Feel Free to join us :D
 
-[![Join us on Discord](https://invidget.switchblade.xyz/2ZZ3bPQMSV?theme=dark)](https://discord.gg/2ZZ3bPQMSV)
+[![Join us on Discord](https://invidget.switchblade.xyz/PrWzd9eBQx?theme=dark)](https://discord.gg/PrWzd9eBQx)
 
 <!--
 
