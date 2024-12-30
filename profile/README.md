@@ -1,5 +1,5 @@
 ## Hi there 👋
-We *use to* make stuff.
+We *used to* make stuff.
 
 ## Discord Server
 
